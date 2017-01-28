@@ -1,0 +1,6 @@
+notes/
+*/notes.*
+./*/*.md
+__pycache__/
+.cache/
+virtualenv/
